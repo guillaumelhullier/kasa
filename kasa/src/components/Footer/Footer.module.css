@@ -14,12 +14,14 @@
 .logoFooter {
   padding-top: 64px;
 }
+
 .textFooter {
   color: #ffffff;
   margin: 0;
   padding-top: 40px;
   padding-bottom: 20px;
   font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
 }
 
 /*Media queries pour mobiles*/
