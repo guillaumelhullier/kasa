@@ -22,6 +22,7 @@ function Banner() {
           </div>
         </section>
       ) : (
+        //Autrement alors
         <section className={CssBanner.banner}>
           <div className={CssBanner.imgContainerHome}>
             <img
