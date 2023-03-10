@@ -19,7 +19,6 @@ function Collapse({ title, text }) {
       <div className={CssCollapse.text}>{text}</div>
     </div>
   ) : (
-    //Chargement du hooks useState
     <div className={CssCollapse.collapseContainer}>
       <div className={CssCollapse.title} onClick={() => setArrowUp(true)}>
         {title}
